@@ -21,4 +21,4 @@
 | :------------: | :------------: |
 | Nombre | **Tarea 9** *Geoposicionamiento* |
 | Descripción  | Obtención del geoposicionamiento actual del dispositivo Wearable.  |
-|  Fecha de Carga | 24/05/23  |
+|  Fecha de Carga | 21/06/23  |
